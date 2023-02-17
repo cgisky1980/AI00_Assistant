@@ -1,4 +1,4 @@
-[English](README_EN.md) | 简体中文 
+[English](README_en.md) | 简体中文 
 
 # 🤖550W 智能助手  ![](https://img.shields.io/badge/license-MIT-blue) 
 
