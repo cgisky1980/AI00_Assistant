@@ -85,7 +85,7 @@
   >
   >​           &emsp;&emsp;&emsp;&emsp;🗂Music  --音乐插件例子
   >
-  >​          &emsp;&emsp;&emsp;&emsp; 🗂Sensor  --传感器插件例子
+  >​          &emsp;&emsp;&emsp;&emsp;🗂Sensor  --传感器插件例子
   >
   >🗂desktop --前端图形用户交互界面。
   >
